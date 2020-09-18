@@ -1,5 +1,5 @@
 # nixie-tube-display
-Interface for nixie tube clock/timer
+Interface for nixie tube clock/timer built on Arduino with ArduiNIX.
 
 Code highlights:
 
